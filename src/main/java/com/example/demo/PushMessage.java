@@ -19,5 +19,6 @@ public class PushMessage {
 
     private String title;
     private String body;
+    private String name; 
 
 }
